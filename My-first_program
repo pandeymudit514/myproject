@@ -1,0 +1,7 @@
+#include<iostream.h>
+
+Using namespace std;
+
+void main()
+{ cout<<"Hello World";
+}
